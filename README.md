@@ -1,4 +1,4 @@
-# BorderRadiusPreviewer
+# Border Radius Previewer
 
 ## App Ideas React Native
 
